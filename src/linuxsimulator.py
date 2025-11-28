@@ -110,6 +110,8 @@ def terminal():
                 'ЭТО ПРОЕКТ ЭЛЕМЕНТАРНЫХ МАСШТАБОВ США РАЗВОДКА SYSTEMD!!!\n'
                 'RED HAT ЗАХВАТ ЗЕМЛИ GCC СУПЕРСЕКРЕТНАЯ РАЗРАБОТКА!!!\n'
                 'SYSTEMD ЕВРЕЙСКАЯ ЦИВИЛИЗАЦИЯ COMMODORE 64!!!\n')
+        elif cmd == 'make love':
+            print("No War!")
         else:
             print(f"bash: command not found: {cmd}")
 
