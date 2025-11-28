@@ -28,6 +28,14 @@ users = {
         'password': 'guitarhero',
         'is_admin': False
     },
+    'masha': {
+        'password': 'hljkfdsfdshjk',
+        'is_admin': False
+    },
+    'Andrey': {
+        'password': '5673845',
+        'is_admin': False
+    },
     'root':{
         'password': '1234',
         'is_admin': True
