@@ -57,6 +57,12 @@ def systemd_boot():
         '[ OK ] Reached target Local File Systems.\n'
         '[ OK ] Mounted /dev/sda2.\n'
         '[ OK ] Mounted /dev/sda3.\n'
+        'Starting Login Service.\n'
+        'Starting Getty on TTI.\n'
+        'Starting Command scheulder.\n'
+        '[ OK ] Started command scheulder.\n'
+        '[ OK ] Started Network Manager.\n'
+        '[ OK ] Started command scheulder.\n'
         '[ OK ] Swaga prisutstvuet.\n'
     ]
     
